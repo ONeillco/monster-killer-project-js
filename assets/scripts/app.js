@@ -234,6 +234,14 @@ function printLogHandler() {
     console.log('--------------');
   }
 
+  // While loop begin
+  // let j = 0;
+  // while (j < 3) {
+  //   console.log('--------------');
+  //   j++;
+  // }
+  // while loop end
+
   // for (let i = 0; i < battleLog.length; i++) {
   //   console.log(battleLog[i]);
   // }
